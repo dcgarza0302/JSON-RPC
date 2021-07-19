@@ -1,2 +1,2 @@
 # JSON-RPC
-Signature hash
+Jett Jett
